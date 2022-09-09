@@ -46,9 +46,18 @@ const nextItem = (xs, item) =>
 
 ### Languages
 
-- _English_ - [EF SET Certificate](https://www.efset.org/cert/8FwP1X)
+- _English_ - [EF SET Certificate](https://www.efset.org/cert/8FwP1X)<br/>
   <img alt="EF Set result" src="./EF%20Set%20score.png" width=150px>
 
 - _Armenian_ - native
 - _Russian_ - like native
 - _German_ - basic level
+
+---
+
+### Hobbies
+
+- _table tennis_
+- _swimming_
+- _basketball_
+- _russian billiard_
