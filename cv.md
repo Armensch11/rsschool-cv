@@ -58,11 +58,6 @@
 
 ---
 
-### Courses
-
-- [ACA](https://www.aca.am/) - _Advanced JS and ReactJS_
-- [Udemy](https://www.udemy.com/) - _React - The Complete Guide (incl Hooks, React Router, Redux)_ - in progress.
-
 ### Languages
 
 - _English_ - [EF SET Certificate](https://www.efset.org/cert/8FwP1X)
