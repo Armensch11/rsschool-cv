@@ -1,4 +1,4 @@
-# Armen Kyureghyan
+# Armen Kyureghyan ![My Photo](./img/boats.jpg "it's me")
 
 ---
 
@@ -11,33 +11,52 @@
 
 ---
 
-### About Myself
+### Summary
 
-Born and live in Armenia. Have MS degree in **Power Engineering**. Always had passion for tech and dreamed of gettting into **programming**, but has not made up my mind till recently. After some research decided to get into **Web Development**. In 2020 participated in a JS training course at _Armenian Coding Academy_, which allowed me to creat a solid background in JS. Consider **RS School FEDC** one of the best opportunities to gain new skills, deepen my knowledge and finally create a solid portfolio of projects.
-The goal is to get a position at **EPAM** or a comparable level company.
+- 1 year of professional experience in the IT industry,
+- Comprehensive understanding of IT industry, including software, hardware and networking,
+- Proficient knowledge of JavaScript and popular JavaScript-based libraries,
+- Solid experience with front-end development technologies (React JS, React-Redux, HTML, CSS, SASS),
+- Thorough undestanding of software design principles and patterns,
+- Deep understanding of OOP and Functional Programming,
+- Good communication skills.
+
+---
+
+### Education
+
+- [Udemy](https://www.udemy.com/) - _React - The Complete Guide (incl Hooks, React Router, Redux)_ - in progress.
+- [ACA](https://www.aca.am/) - _Advanced JS and ReactJS_ in 2020
+- **_IAEA_** course on Safety Assessement of Radioactive Waste Disposal, Abingdon, UK in 2002
+- _State Engineering University of Armenia_, 2003
 
 ---
 
 ### Skills
 
-- _JS_
-- _React JS_
-- _HTML,CSS,Git_
+- **Programming and Markup Languages**:
+  - _JavaScript_
+  - _ES2015/ES6_
+  - _JSON_
+  - _HTML5,CSS3_
+- **Technologies and Frameworks**:
+  - React
+  - Redux-react
+  - Firebase
+  - OOP
+  - Material UI
+- **Development Environments**:
+  - VS Code,
+  - Linux
+  - MacOS
+  - VMware
+  - VirtualBox
+- **Continuous Integration and Repository Management**:
+  - GitHub
+- **Source Version Control**:
+  - Git
 
 ---
-
-### Code Example
-
-_Given a sequence of items and a specific item in that sequence, return the item immediately following the item specified. If the item occurs more than once in a sequence, return the item after the first occurence. This should work for a sequence of any type._
-
-```Javascript
-const nextItem = (xs, item) =>
-  {
-    const iter = xs[Symbol.iterator]();
-    for (let el of iter){ if (el === item)
-    return iter.next().value; }
-  };
-```
 
 ### Courses
 
