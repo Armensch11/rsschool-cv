@@ -1,4 +1,7 @@
-# Armen Kyureghyan ![My Photo](./img/boats.jpg "it's me")
+# Armen Kyureghyan
+
+<img src="./img/ArmenKyureghyanCVphoto.jpg" alt="my photo" width="250" />
+<!-- ![My Photo](./img/ArmenKyureghyanCVphoto.jpg "it's me") -->
 
 ---
 
