@@ -1,0 +1,13 @@
+* {
+  border: solid grey 1px;
+}
+.about {
+
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: auto 5rem;
+}
+.bio .image {
+ width: 15rem;
+}

@@ -1,1 +1,1 @@
-https://armensch11.github.io/rsschool-cv/cv
+https://armensch11.github.io/rsschool-cv/
